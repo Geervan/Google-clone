@@ -1,3 +1,3 @@
 ## Live demo 
 
-[YouTube](https://geervan-google-clone.netlify.app "YouTube Homepage")
+[Google-Clone](https://geervan-google-clone.netlify.app "YouTube Homepage")
