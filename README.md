@@ -1,3 +1,3 @@
 Live demo 
 
-[Google clone] ( https://geervan-google-clone.netlify.app/)
+[Google clone] (https://geervan-google-clone.netlify.app/ "Netlify deploy")
